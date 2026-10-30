@@ -6,6 +6,8 @@
 
 ## 🧍 AI姿势库
 
+> 原文链接：https://ai-pose-gallery.pages.dev/ ｜ 中文镜像：https://github.com/anhao/ai-pose-gallery-zh
+
 无脸灰色人偶线画姿势集，只看姿态本身，不受脸和衣服干扰，拿来就能当生成参考。
 
 - **288 组姿势，1439 张参考图**：全身标准 73 组、全身性感 80 组、上半身 80 组、双人互动 55 组
@@ -20,6 +22,8 @@
 
 ## 👤 AI脸型库
 
+> 原文链接：https://ai-portrait-gallery.pages.dev/
+
 脸型与发型参考库，定脸、定发型、定妆造之前先在这里找好参照。
 
 - **1499 张脸型参考**：脸部特写 893 张、造型 606 张
@@ -33,6 +37,8 @@
 ---
 
 ## 👗 AI衣服库
+
+> 原文链接：https://ai-costume-gallery.pages.dev/ ｜ 虚拟试穿版：https://github.com/paipiange/nvzhuang
 
 服装搭配参考库，春夏秋冬、内衣派对泳装全覆盖，定好一身再去生成。
 
